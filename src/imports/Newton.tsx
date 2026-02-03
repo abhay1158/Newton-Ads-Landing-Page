@@ -1,4 +1,4 @@
-import imgLogoWithTextLight1 from "figma:asset/74c79c3f9141b8e43893fad3b07faaa0f914bc62.png";
+import imgLogoWithTextLight1 from "@/assets/74c79c3f9141b8e43893fad3b07faaa0f914bc62.png";
 
 export default function Newton() {
   return (

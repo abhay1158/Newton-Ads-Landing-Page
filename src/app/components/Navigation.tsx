@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import imgLogo from "figma:asset/c77004efb67f03f2b3566e6d00e9bab76356ce27.png";
+import imgLogo from "@/assets/c77004efb67f03f2b3566e6d00e9bab76356ce27.png";
 
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

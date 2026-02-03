@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { useState, useEffect } from 'react';
-import newtonLogo from "figma:asset/9063bd8409de3b61622e0f31610eb12be6c393de.png";
+import newtonLogo from "@/assets/9063bd8409de3b61622e0f31610eb12be6c393de.png";
 
 const profileImages = [
   "https://images.unsplash.com/photo-1655249493799-9cee4fe983bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=200&h=200&fit=crop",

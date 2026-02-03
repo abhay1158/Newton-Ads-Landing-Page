@@ -1,11 +1,11 @@
 import svgPaths from '@/imports/svg-smcghjdsc0';
-import imgAmazon from "figma:asset/577a972db39f89db16f9978922a5b92430ba4fdd.png";
-import imgMeta from "figma:asset/d0eda17d2d587db5ccb44f519a0898b0df025691.png";
-import imgShopify from "figma:asset/a182ee723ace7e10afb7f54221d71e8ca51255ba.png";
-import imgGa4 from "figma:asset/2410b0f822ad3c16497f5ea514316385c06b02c3.png";
-import imgAd3FinalPng from "figma:asset/f8c4b54676b4a4930e553dbdccb75cce33a41e7f.png";
-import imgNextAd from "figma:asset/5c63c0f840436128dd552d4284b0f79cc9a9c617.png";
-import imgAdCreative from "figma:asset/b6aaf09e13fe8b31f353557206561cc108fc224d.png";
+import imgAmazon from "@/assets/577a972db39f89db16f9978922a5b92430ba4fdd.png";
+import imgMeta from "@/assets/d0eda17d2d587db5ccb44f519a0898b0df025691.png";
+import imgShopify from "@/assets/a182ee723ace7e10afb7f54221d71e8ca51255ba.png";
+import imgGa4 from "@/assets/2410b0f822ad3c16497f5ea514316385c06b02c3.png";
+import imgAd3FinalPng from "@/assets/f8c4b54676b4a4930e553dbdccb75cce33a41e7f.png";
+import imgNextAd from "@/assets/5c63c0f840436128dd552d4284b0f79cc9a9c617.png";
+import imgAdCreative from "@/assets/b6aaf09e13fe8b31f353557206561cc108fc224d.png";
 import { imgContainer } from "@/imports/svg-iaprs";
 
 export function LetAIRunSection() {
